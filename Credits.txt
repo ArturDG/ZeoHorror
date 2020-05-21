@@ -4,6 +4,7 @@ Programmers:
 	Geilomat 3000
 	
 Artists:
+	Artur
 
 Gameplay Designers:
 
